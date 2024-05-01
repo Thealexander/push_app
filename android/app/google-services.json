@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95276966425",
+    "project_id": "flutterforms-44b1f",
+    "storage_bucket": "flutterforms-44b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95276966425:android:d7e85d02b61c5c48024088",
+        "android_client_info": {
+          "package_name": "com.balexg.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Pmn5KbMbMbDj-pj_x-xMYBlgzXXb6OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
